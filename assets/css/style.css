@@ -500,7 +500,7 @@ nav.navbar.bootsnav .navbar-toggle i{color: #4e4ffa;}
     align-items: center;
     justify-content: center;
     height: 200px; /* Set a fixed height for uniformity */
-    width: 300px;
+    width: 100%;
     overflow: hidden;
     transition: transform 0.3s ease;
     margin-bottom: 20px; /* Adjusted for better spacing */
